@@ -1,6 +1,6 @@
 # 🌟 My GitHub Poster 🌟
 
-![Neel's Poster](https://www.canva.com/design/DAGKtMj2iHM/ZaCIc9anR3ifZjTXqTvARg/view?utm_content=DAGKtMj2iHM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5767903c71)
+![Neel's Poster](https://export-download.canva.com/j2iHM/DAGKtMj2iHM/5/0/0001-1306501126092682264.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20250221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250221T233510Z&X-Amz-Expires=76682&X-Amz-Signature=0016976ca6d4c1e25b755018df81d21bf865f8e61b67a586d0b75d07fb78cf00&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27White%2520Minimalist%2520Profile%2520LinkedIn%2520Banner.png&response-expires=Sat%2C%2022%20Feb%202025%2020%3A53%3A12%20GMT)
 
 ## 🚀 About Me
 - 🎓 Student at Techno India University
