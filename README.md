@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 Student at Techno India University
-- 💻 BTech CSE (1st Year)
+- 💻 BTech Biotechnology (1st Year)
 - 🧬 Interested in Computer Science & Biotech
 - 🌱 Currently Learning: C Programming
 - ⚡ Hobby: Playing Cricket
