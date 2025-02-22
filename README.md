@@ -1,6 +1,6 @@
 # 🌟 My GitHub Poster 🌟
 
-![Neel's Poster](https://via.placeholder.com/1000x400?text=Your+Poster+Here)
+![Neel's Poster](https://www.canva.com/design/DAGKtMj2iHM/ZaCIc9anR3ifZjTXqTvARg/view?utm_content=DAGKtMj2iHM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5767903c71)
 
 ## 🚀 About Me
 - 🎓 Student at Techno India University
