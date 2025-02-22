@@ -1,7 +1,6 @@
 # 🌟 My GitHub Poster 🌟
 
-![Neel's Poster](https://export-download.canva.com/j2iHM/DAGKtMj2iHM/5/0/0001-1306501126092682264.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20250221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250221T233510Z&X-Amz-Expires=76682&X-Amz-Signature=0016976ca6d4c1e25b755018df81d21bf865f8e61b67a586d0b75d07fb78cf00&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27White%2520Minimalist%2520Profile%2520LinkedIn%2520Banner.png&response-expires=Sat%2C%2022%20Feb%202025%2020%3A53%3A12%20GMT)
-
+![Neel's Poster](https://export-download.canva.com/j2iHM/DAGKtMj2iHM/6/0/0001-3086548881123907819.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20250222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250222T071054Z&X-Amz-Expires=47390&X-Amz-Signature=d79840aaeed2da6af8292855d43f334ce2487b2104b42159fe15541d88a0ef8a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27White%2520Minimalist%2520Profile%2520LinkedIn%2520Banner.png&response-expires=Sat%2C%2022%20Feb%202025%2020%3A20%3A44%20GMT)
 ## 🚀 About Me
 - 🎓 Student at Techno India University
 - 💻 BTech Biotechnology (1st Year)
